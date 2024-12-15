@@ -1,0 +1,15 @@
+debug_mode: false
+database_name: database.sqlite
+currency_prefix: R$
+credit_card:
+  fileName_includes: Cartao
+  CSV_entryName: title
+  CSV_entryValue: amount
+  ignore_negative_values: true
+  only_negative_values: false
+bank_transactions:
+  fileName_includes: Conta
+  CSV_entryName: "Descri\xE7\xE3o"
+  CSV_entryValue: Valor
+  ignore_negative_values: false
+  only_negative_values: true

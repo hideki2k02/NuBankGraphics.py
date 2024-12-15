@@ -1,0 +1,4 @@
+pandas
+plotly
+PyYAML
+simple_term_menu
