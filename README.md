@@ -8,7 +8,7 @@ A configurable CSV Parser that outputs a Pie Chart
 Originally made for NuBank 🇧🇷
 
 # Getting Started
-- Install Python dependencies `pip install plotly pandas PyYAML simple_term_menu`
+- Install Python dependencies `pip install -r requirements.txt`
 - Get an export of both your Bank Transaction History and the Credit Card Expenses (minimum of one)
 - Configure according to your needs (config.yml already included)
 - Run the program and select the CSV files
